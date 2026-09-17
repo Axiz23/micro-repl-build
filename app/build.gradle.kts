@@ -31,7 +31,7 @@ android {
     namespace = "micro.repl.ma7moud3ly"
     compileSdk = 37
     defaultConfig {
-        applicationId = "micro.repl.ma7moud3ly"
+        applicationId = "micro.repl.ma7moud3ly.axiz23"
         minSdk = 23
         targetSdk = 37
         versionCode = 18
